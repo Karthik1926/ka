@@ -34,7 +34,7 @@
 <![CDATA[ USD ]]>
 </salary_unit>
 <salary_type>
-<![CDATA[ Monthly ]]>
+<![CDATA[ MONTHLY ]]>
 </salary_type>
 <company>
 <![CDATA[ Logic  Staffing ]]>
@@ -81,7 +81,7 @@
 <![CDATA[ USD ]]>
 </salary_unit>
 <salary_type>
-<![CDATA[ Hourly ]]>
+<![CDATA[ HOURLY ]]>
 </salary_type>
 <city>
 <![CDATA[ Ontario ]]>
