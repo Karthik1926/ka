@@ -28,13 +28,13 @@
 <![CDATA[ FPT INDIA ]]>
 </requirements>
 <salary>
-<![CDATA[ 10 ]]>
+<![CDATA[ 100 ]]>
 </salary>
 <salary_unit>
-<![CDATA[ USD ]]>
+<![CDATA[ CAD ]]>
 </salary_unit>
 <salary_type>
-<![CDATA[ MONTHLY ]]>
+<![CDATA[ Daily ]]>
 </salary_type>
 <company>
 <![CDATA[ Logic  Staffing ]]>
@@ -52,7 +52,7 @@
 <![CDATA[ 537d160a-5ee5-d3be-87d5-3a1681107223 ]]>
 </requisition_id>
 <radius>
-<![CDATA[ 0 ]]>
+<![CDATA[ 5 ]]>
 </radius>
 <cpc>
 <![CDATA[ 1.5 ]]>
