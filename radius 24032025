@@ -31,10 +31,10 @@
 <![CDATA[ 100 ]]>
 </salary>
 <salary_unit>
-<![CDATA[ CAD ]]>
+<![CDATA[ USD ]]>
 </salary_unit>
 <salary_type>
-<![CDATA[ PAY_IN_SALARY ]]>
+<![CDATA[ CPM ]]>
 </salary_type>
 <company>
 <![CDATA[ Logic  Staffing ]]>
