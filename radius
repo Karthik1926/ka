@@ -56,9 +56,6 @@
 <requisition_id>
 <![CDATA[ 862ae889-dd41-1561-6456-3a167b8d48e7 ]]>
 </requisition_id>
-<radius>
-<![CDATA[ 1 ]]>
-</radius>
 </job>
 <job>
 <referencenumber>
@@ -114,8 +111,5 @@
 <requisition_id>
 <![CDATA[ 862ae889-dd41-1561-6456-3a167b8d48e9 ]]>
 </requisition_id>
-<radius>
-<![CDATA[ 1 ]]>
-</radius>
 </job>
 </source>
