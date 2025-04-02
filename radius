@@ -7,17 +7,20 @@
 <![CDATA[ 1 ]]>
 </referencenumber>
 <title>
-<![CDATA[ Karthik Test 1 4 ]]>
+<![CDATA[ Karthik Test 1 5 ]]>
 </title>
 <radius>
-<![CDATA[ 5 ]]>
+<![CDATA[ 15 ]]>
 </radius>
-<benefits>
-<![CDATA[ ALE Karthik 0/ALE Karthik 1 0/ALE Karthik 2 0 ]]>
-</benefits>
-<requirements>
-<![CDATA[ FPT INDIA 1 SOFTWAR ]]>
-</requirements>
+<salary>
+<![CDATA[ 100 ]]>
+</salary>
+<salary_unit>
+<![CDATA[ USD ]]>
+</salary_unit>
+<salary_type>
+<![CDATA[ CPM ]]>
+</salary_type>
 <url>
 <![CDATA[ https://arraycorp.com/job/senior-accountant-atlanta-ga-hybrid/?ad_id=862ae889-dd41-1561-6456-3a167b8d48e7&source=A2E8403E-F59F-4BA7-FF98-3A102FA6D2E5 ]]>
 </url>
@@ -54,17 +57,20 @@
 <![CDATA[ 2 ]]>
 </referencenumber>
 <title>
-<![CDATA[ Karthik Test 2 4 ]]>
+<![CDATA[ Karthik Test 2 5 ]]>
 </title>
 <radius>
-<![CDATA[ 5 ]]>
+<![CDATA[ 15 ]]>
 </radius>
-<benefits>
-<![CDATA[ ALE Karthik 0/ALE Karthik 1 0/ALE Karthik 2 0 ]]>
-</benefits>
-<requirements>
-<![CDATA[ FPT INDIA SOFTWAR 1 ]]>
-</requirements>
+<salary>
+<![CDATA[ 100 ]]>
+</salary>
+<salary_unit>
+<![CDATA[ USD ]]>
+</salary_unit>
+<salary_type>
+<![CDATA[ CPM ]]>
+</salary_type>
 <url>
 <![CDATA[ https://arraycorp.com/job/senior-accountant-atlanta-ga-hybrid/?ad_id=862ae889-dd41-1561-6456-3a167b8d48e7&source=A2E8403E-F59F-4BA7-FF98-3A102FA6D2E5 ]]>
 </url>
