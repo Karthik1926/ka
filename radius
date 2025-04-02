@@ -10,7 +10,7 @@
 <![CDATA[ Karthik Test 1 5 ]]>
 </title>
 <radius>
-<![CDATA[ 15 ]]>
+<![CDATA[ 0 ]]>
 </radius>
 <salary>
 <![CDATA[ 100 ]]>
@@ -60,7 +60,7 @@
 <![CDATA[ Karthik Test 2 5 ]]>
 </title>
 <radius>
-<![CDATA[ 15 ]]>
+<![CDATA[ 0 ]]>
 </radius>
 <salary>
 <![CDATA[ 100 ]]>
