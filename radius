@@ -9,6 +9,9 @@
 <title>
 <![CDATA[ Karthik Test 1 1 ]]>
 </title>
+<radius>
+<![CDATA[ 5 ]]>
+</radius>
 <benefits>
 <![CDATA[ ALE Karthik/ALE Karthik 1/ALE Karthik 2 ]]>
 </benefits>
@@ -53,6 +56,9 @@
 <title>
 <![CDATA[ Karthik Test 2 1 ]]>
 </title>
+<radius>
+<![CDATA[ 5 ]]>
+</radius>
 <benefits>
 <![CDATA[ ALE Karthik/ALE Karthik 1/ALE Karthik 2 ]]>
 </benefits>
