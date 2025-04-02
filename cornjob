@@ -7,10 +7,10 @@
 <![CDATA[ 1 ]]>
 </referencenumber>
 <title>
-<![CDATA[ Karthik Test 2 ]]>
+<![CDATA[ Karthik Test 2 1 ]]>
 </title>
 <radius>
-<![CDATA[ 0 ]]>
+<![CDATA[ 10 ]]>
 </radius>
 <salary>
 <![CDATA[ 100 ]]>
@@ -19,7 +19,7 @@
 <![CDATA[ USD ]]>
 </salary_unit>
 <salary_type>
-<![CDATA[ CPM ]]>
+<![CDATA[ MONTHLY ]]>
 </salary_type>
 <url>
 <![CDATA[ https://arraycorp.com/job/senior-accountant-atlanta-ga-hybrid/?ad_id=862ae889-dd41-1561-6456-3a167b8d48e7&source=A2E8403E-F59F-4BA7-FF98-3A102FA6D2E5 ]]>
@@ -36,8 +36,14 @@
 <cpc>
 <![CDATA[ 0.391 ]]>
 </cpc>
+<benefits>
+<![CDATA[ ALE Karthik/ALE Karthik 1/ALE Karthik 2 ]]>
+</benefits>
+<requirements>
+<![CDATA[ FPT INDIA SOFTWAR ]]>
+</requirements>
 <company>
-<![CDATA[ Array 1 Internal Recruiting ]]>
+<![CDATA[ Array  Internal Recruiting ]]>
 </company>
 <country>
 <![CDATA[ USA ]]>
@@ -57,19 +63,19 @@
 <![CDATA[ 2 ]]>
 </referencenumber>
 <title>
-<![CDATA[ Karthik Test 1]]>
+<![CDATA[ Karthik Test 1 1]]>
 </title>
 <radius>
-<![CDATA[ 0 ]]>
+<![CDATA[ 10 ]]>
 </radius>
 <salary>
-<![CDATA[ 100 ]]>
+<![CDATA[ 10 ]]>
 </salary>
 <salary_unit>
 <![CDATA[ USD ]]>
 </salary_unit>
 <salary_type>
-<![CDATA[ CPM ]]>
+<![CDATA[ MONTHLY ]]>
 </salary_type>
 <url>
 <![CDATA[ https://arraycorp.com/job/senior-accountant-atlanta-ga-hybrid/?ad_id=862ae889-dd41-1561-6456-3a167b8d48e7&source=A2E8403E-F59F-4BA7-FF98-3A102FA6D2E5 ]]>
@@ -89,6 +95,12 @@
 <company>
 <![CDATA[ Array 1 Internal Recruiting ]]>
 </company>
+<benefits>
+<![CDATA[ ALE Karthik/ALE Karthik 1/ALE Karthik 2 ]]>
+</benefits>
+<requirements>
+<![CDATA[ FPT INDIA SOFTWAR ]]>
+</requirements>
 <country>
 <![CDATA[ USA ]]>
 </country>
